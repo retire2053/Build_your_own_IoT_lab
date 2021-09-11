@@ -44,10 +44,8 @@
 此外，还存在以功能命名皮瓣，如衬里皮瓣，及按供皮区部位命名的皮瓣，如用于指端外伤修复的鱼际皮瓣。
 
 ## 逻辑图
-
-
-
-
+![](https://github.com/retire2053/flap_design_navigation/blob/main/resources/f-1.png)
+![](https://github.com/retire2053/flap_design_navigation/blob/main/resources/f-2.png)
 
 Axial artery周动脉
 Septocutanous artery 隔动脉
