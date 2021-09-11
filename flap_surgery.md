@@ -46,3 +46,9 @@
 
 ### 游离皮瓣
 ![](https://github.com/retire2053/flap_design_navigation/blob/main/resources/f-11.png)
+
+## 术后
+- 绝对卧床一周
+- 微循环观察
+- 三抗治疗（抗凝，抗感染，抗痉挛）
+- 观察动脉危象、静脉危象
